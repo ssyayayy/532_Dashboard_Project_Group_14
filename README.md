@@ -1,6 +1,4 @@
 <!-- #region -->
-# 532_Dashboard_Project_Group_14
-
 # Employee Attrition Dashboard
 
 ## Dashboard App Deployment
